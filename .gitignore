@@ -1,0 +1,14 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+EntityCodeFirst/bin/
+EntityCodeFirst/obj/
+packages/
+AgCollect.v12.suo
+EntityCodeFirst/EntityCodeFirst.csproj.user
+EntityCodeFirst/Web.config
+.vs/config/applicationhost.config
+.vs/EntityCodeFirst/v15/.suo
+.vs/
